@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+#TextUtils- Format Your Text Here! - Made using React.Js Framework by Sameer Malek
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
