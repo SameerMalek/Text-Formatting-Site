@@ -46,7 +46,7 @@ export default function About() {
                                 aria-controls="collapseOne"
                                 style={myMode}
                             >
-                                Accordion Item #1
+                                 What is TextUtils?
                             </button>
                         </h2>
                         <div
@@ -71,7 +71,7 @@ export default function About() {
                                 aria-controls="collapseTwo"
                                 style={myMode}
                             >
-                                Accordion Item #2
+                                Why Choose TextUtils?
                             </button>
                         </h2>
                         <div
@@ -97,7 +97,7 @@ export default function About() {
                                 aria-controls="collapseThree"
                                 style={myMode}
                             >
-                                Accordion Item #3
+                                How Can TextUtils Help You?
                             </button>
                         </h2>
                         <div
